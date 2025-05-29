@@ -47,7 +47,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences. Note that some papers may fall into multiple categories.
 
 ## Survey
-- Generalizing to Unseen Domains: A Survey on Domain Generalization [[IJCAI 2021](https://arxiv.53yu.com/pdf/2103.03097)] [[Slides](http://jd92.wang/assets/files/DGSurvey-ppt.pdf)] [155]
+- Generalizing to Unseen Domains: A Survey on Domain Generalization [[IJCAI 2021](https://arxiv.org/abs/2103.03097)] [[Slides](http://jd92.wang/assets/files/DGSurvey-ppt.pdf)] [155]
 - Domain Generalization in Vision: A Survey [[TPAMI 2022](https://arxiv.org/abs/2103.02503)] [3]
 
 ## Theory & Analysis
